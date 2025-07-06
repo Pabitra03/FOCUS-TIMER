@@ -1,6 +1,6 @@
 # ⏱️ Focus Timer (Pomodoro Style)
 
-A sleek and responsive **Focus Timer** Built with **HTML, CSS, and JavaScript**, it helps boost productivity through timed focus and break sessions — right in your browser.
+A clean and simple**Focus Timer** Built with **HTML, CSS, and JavaScript**, it helps boost productivity through timed focus and break sessions — right in your browser.
 
 ---
 
