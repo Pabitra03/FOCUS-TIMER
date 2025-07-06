@@ -1,4 +1,4 @@
-# ⏱️ Focus Timer (Pomodoro Style)
+# ⏱️ Focus Timer
 
 A clean and simple **Focus Timer** Built with **HTML, CSS, and JavaScript**, it helps boost productivity through timed focus and break sessions — right in your browser.
 
